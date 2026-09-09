@@ -19,12 +19,14 @@ Full Stack Web Developer | BSc Mathematics student building efficient, scalable 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+
+<!--
 ### 📊 GitHub Stats
 
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talha-khondoker&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talha-khondoker&layout=compact&hide_border=true)
 
-<!--
+
 Tip: replace the section above with 2-3 featured projects once they're pushed, e.g.:
 
 ### 🚀 Featured Projects
